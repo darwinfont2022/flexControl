@@ -1,6 +1,6 @@
 package com.darwinfont.fexControl.domain.mapper;
 
-import com.darwinfont.fexControl.domain.dto.PartCreateDto;
+import com.darwinfont.fexControl.domain.dto.part.PartCreateDto;
 import com.darwinfont.fexControl.domain.entities.PartEntity;
 
 import java.util.List;

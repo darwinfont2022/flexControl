@@ -1,17 +1,14 @@
-package com.darwinfont.fexControl.domain.dto;
+package com.darwinfont.fexControl.domain.dto.part;
 
-import com.darwinfont.fexControl.domain.entities.PartProgressState;
+import com.darwinfont.fexControl.domain.dto.nest.NestDto;
 import lombok.*;
 
 import java.math.BigDecimal;
-import java.util.Date;
 import java.util.List;
 
 @Getter
 @Setter
 public class PartCreateDto {
-    private Integer id;
-
     // --- CLIENTE ---
     private String clientExternalId;
     private String clientName;

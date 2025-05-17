@@ -1,7 +1,7 @@
-package com.darwinfont.fexControl.domain.dto;
+package com.darwinfont.fexControl.domain.dto.client;
 
-import com.darwinfont.fexControl.domain.entities.CityEntity;
-import com.darwinfont.fexControl.domain.entities.RequestEntity;
+import com.darwinfont.fexControl.domain.dto.city.CityRspDto;
+import com.darwinfont.fexControl.domain.dto.request.RequestRspDto;
 import lombok.*;
 
 import java.util.List;

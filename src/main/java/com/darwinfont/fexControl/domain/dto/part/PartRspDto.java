@@ -1,4 +1,4 @@
-package com.darwinfont.fexControl.domain.dto;
+package com.darwinfont.fexControl.domain.dto.part;
 
 import lombok.Builder;
 import lombok.Data;
